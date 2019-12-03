@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://podologue-clichy.fr/sitemap.xml
