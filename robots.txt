@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://paris-podologie.fr/sitemap.xml
+Sitemap: https://podologie-paris.fr/sitemap.xml
